@@ -1,4 +1,4 @@
-﻿CompanyName, CompanyNumber,RegAddress.PostCode,CompanyCategory,CompanyStatus,CountryOfOrigin,DissolutionDate,IncorporationDate,SICCode.SicText_1,URI
+CompanyName,CompanyNumber,PostCode,CompanyCategory,CompanyStatus,CountryOfOrigin,DissolutionDate,IncorporationDate,SICCode.SicText_1,URI
 BUMBLE & BUNNY LIMITED,11036871,HA3 0BU,Private Limited Company,Active,United Kingdom,,30/10/2017,"47990 - Other retail sale not in stores, stalls or markets",http://business.data.gov.uk/id/company/11036871
 BUNNY & BUCK LIMITED,13033898,TN27 0JS,Private Limited Company,Active,United Kingdom,,20/11/2020,96090 - Other service activities n.e.c.,http://business.data.gov.uk/id/company/13033898
 BUNNY & CARROT LTD,13330633,DE22 3UN,"PRI/LTD BY GUAR/NSC (Private, limited by guarantee, no share capital)",Active,United Kingdom,,13/04/2021,01490 - Raising of other animals,http://business.data.gov.uk/id/company/13330633
@@ -11,4 +11,4 @@ BUNNY AND BEAR DESIGNS LTD,12894099,OX3 8JT,Private Limited Company,Active,Unite
 BUNNY AND BEARS LTD,12600843,OX17 2LG,Private Limited Company,Active,United Kingdom,,13/05/2020,47910 - Retail sale via mail order houses or via Internet,http://business.data.gov.uk/id/company/12600843
 BUNNY AND BELLE LIMITED,8633776,TN33 0QL,Private Limited Company,Active,United Kingdom,,01/08/2013,47710 - Retail sale of clothing in specialised stores,http://business.data.gov.uk/id/company/08633776
 BUNNY AND BLANKET LIMITED,12713705,DY1 4RH,Private Limited Company,Active,United Kingdom,,02/07/2020,68100 - Buying and selling of own real estate,http://business.data.gov.uk/id/company/12713705
-BUNNY AND MOO LTD,12847872,notapostcode,Private Limited Company,Active,United Kingdom,,31/08/2020,18129 - Printing n.e.c.,http://business.data.gov.uk/id/company/12847872
+BUNNY AND MOO LTD,12847872,LU6 2QA,Private Limited Company,Active,United Kingdom,,31/08/2020,18129 - Printing n.e.c.,http://business.data.gov.uk/id/company/12847872
