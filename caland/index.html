@@ -10,6 +10,13 @@
       }
     </style>
     <script>
+      function setCookie(name, value) {
+         // EXPIRE AFTER 5 DAYS :: ( now() + 5 days in milliseconds )
+
+         var exp = new Date();        
+         exp.setTime(exp.getTime() + (5 * 24 * 60 * 60 * 1000));        
+         document.cookie = name + "=" + escape(value) + "; path=/; expires=" + exp.toGMTString();
+      } 
       function rowclick(e) {
         e = e || window.event;
         var data = [];
