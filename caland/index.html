@@ -28,14 +28,15 @@
         setCookie("section",data[3]);      
         setCookie("township",data[4]);    
         setCookie("range",data[5]);      
-        setCookie("meridian",data[6]);   
+        setCookie("meridian",data[6]);
+        document.getElementById("myForm").submit();
       }
     </script>
     <title>Cusack land grants - index</title>
   </head>
   <body>
     <h1>Cusack land grants - index</h1>
-    <form name=DLS method=POST action="/cgi-bin/shopats201703.cgi">
+    <form id="myForm" name="DLS" method="POST" action="/cgi-bin/shopats201703.cgi">
       <input type="hidden" name="cmd" value="forward"></input>
     </form>
     <div id="result_table_container" class="w3-container">
