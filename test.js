@@ -1,9 +1,0 @@
-<html>
-  <head>
-    <script>
-      alert('hop!');
-    </script>
-  </head>
-  <body>
-  </body>
-</html>
