@@ -1,7 +1,9 @@
 <html>
-<body>
-<script>
-alert('hop!');
-</script>
-</body>
+  <head>
+    <script>
+      alert('hop!');
+    </script>
+  </head>
+  <body>
+  </body>
 </html>
